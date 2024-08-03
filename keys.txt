@@ -1,0 +1,37 @@
+				AZERTY			QWERTY
+
+Player 1:
+---------
+Joystick (4 buttons)
+Map: Tab
+
+Player 2:
+---------
+Up: 				s			s
+Down: 				x			x
+Left: 				w			z
+Right: 				c			c
+Fire: 				ctrl			ctrl
+Use: 				space			space
+Strafe: 			b			b
+Speed: 				Shift
+Weapons: 			y u i o p ^ $		y u i o p [ ]
+Map: 				<			\
+
+Player 3:
+---------
+Mouse
+Speed: 				':'			.
+Weapons: 			f g h j k l m		f g h j k l ;
+Map: 				!			/
+
+Player 4:
+---------
+Numeric keypad
+Fire: Right Arrow
+Use: Left Arrow
+Strafe: Down Arrow
+Speed: Up Arrow
+Weapons: Ins Home PgUp Del End PgDown "keypad-/"
+Map: keypad-0
+ 
